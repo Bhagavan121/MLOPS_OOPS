@@ -11,3 +11,10 @@ Here is the exact text from the image:
    > debugging  
    > easy to colab
 
+Here is the text from the image:
+
+5. End to end Project (Chatbook class)
+   > encapsulation  
+   > getter and setter  
+   > static method
+
